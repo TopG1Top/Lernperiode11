@@ -16,6 +16,8 @@ Ziel ist es, praktische Projekte in allen Bereichen umzusetzen und so meine Skil
 - [ ] **Skizze der Spielmechanik** erstellen
 - [ ] **GitHub-Repository** für beide Projekte anlegen
 
+      gut gearbeitet heute alles gemacht was ich machen wollte idee habe ich so ein shooter spiel mache ich sprache js habe gut gearbeitet probleme waren keine da es hat alles sofort funktioniert bis auf meine html datei nicht am anfang sonst ging alles gut
+
 ---
 
 ### 📆 22.08 – **Technische Basis schaffen**
