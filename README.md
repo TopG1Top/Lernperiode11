@@ -3,14 +3,8 @@
 # 📅 Semesterplanung – Informatikprojekte (Spiele & Apps)
 
 ## 🗂 Grobplanung Semester
-| Monat       | Thema / Projekt                          | Zielsetzung |
-|-------------|------------------------------------------|-------------|
-| **August**  | Ideenfindung & Grundlagen festlegen       | Projektideen für Spiel & App definieren, Tools auswählen |
-| **September** | Spielentwicklung – Konzept & Prototyp  | Low-Fidelity-Prototyp, Grundlogik & Steuerung umsetzen |
-| **Oktober** | Spielentwicklung – Feinschliff & Features | Level-Design, Sounds, Bugfixing |
-| **November** | App-Entwicklung – Konzept & Prototyp    | Design (UI/UX), Datenbankstruktur, erste Funktionen |
-| **Dezember** | App-Entwicklung – Erweiterung & Abschluss | Erweiterte Features, Tests, Release-Vorbereitung |
-| **Januar**  | Abschlussarbeiten & Präsentation         | Projekte dokumentieren & präsentieren |
+In diesem Semester werde ich drei Hauptbereiche abdecken: Spiele programmieren, Ethical Hacking und Webseiten entwickeln.
+Ziel ist es, praktische Projekte in allen Bereichen umzusetzen und so meine Skills zu erweitern.
 
 ---
 
