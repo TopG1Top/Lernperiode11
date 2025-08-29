@@ -38,7 +38,7 @@ Heute habe ich einen wichtigen Grundstein für das gesamte Projekt gelegt. Zuers
 - [ ] **Projekt-Wiki:** Erste Tutorials / How-Tos dokumentieren (z. B. Setup beschreiben)  
 - [ ] **Codequalität:** Git-Repository einrichten + erste Commits mit sauberer Struktur
 
-- [ ] ### 📆 29.08 – **Funktionen vertiefen**
+### 📆 29.08 – **Funktionen vertiefen**
 - [ ] **Spiel:** Erste einfache Gegner oder Hindernisse einbauen  
 - [ ] **App:** Eingabeformular (z. B. Login oder Registrierung) erstellen  
 - [ ] **Projekt-Wiki:** Dokumentation zur Spiel-/App-Architektur ergänzen  
