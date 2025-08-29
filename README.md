@@ -33,16 +33,16 @@ Heute habe ich einen wichtigen Grundstein für das gesamte Projekt gelegt. Zuers
 ---
 
 ## 📆 Nächste Arbeitspakete (23.08)
-- [ ] **Spiel:** Erweiterung der Steuerungslogik (z. B. Sprung / Interaktion)  
-- [ ] **App:** Navigation zwischen mehreren Seiten implementieren  
-- [ ] **Projekt-Wiki:** Erste Tutorials / How-Tos dokumentieren (z. B. Setup beschreiben)  
-- [ ] **Codequalität:** Git-Repository einrichten + erste Commits mit sauberer Struktur
+- [x ] **Spiel:** Erweiterung der Steuerungslogik (z. B. Sprung / Interaktion)  
+- [ x] **App:** Navigation zwischen mehreren Seiten implementieren  
+- [ x] **Projekt-Wiki:** Erste Tutorials / How-Tos dokumentieren (z. B. Setup beschreiben)  
+- [ x] **Codequalität:** Git-Repository einrichten + erste Commits mit sauberer Struktur
 
 ### 📆 29.08 – **Funktionen vertiefen**
-- [ ] **Spiel:** Erste einfache Gegner oder Hindernisse einbauen  
-- [ ] **App:** Eingabeformular (z. B. Login oder Registrierung) erstellen  
-- [ ] **Projekt-Wiki:** Dokumentation zur Spiel-/App-Architektur ergänzen  
-- [ ] **Testen:** Erste kleine Unit-Tests für Spiel- und App-Komponenten schreiben  
+- [ x] **Spiel:** Erste einfache Gegner oder Hindernisse einbauen  
+- [ x] **App:** Eingabeformular (z. B. Login oder Registrierung) erstellen  
+- [ x] **Projekt-Wiki:** Dokumentation zur Spiel-/App-Architektur ergänzen  
+- [ x] **Testen:** Erste kleine Unit-Tests für Spiel- und App-Komponenten schreiben  
 
 ## 📝 Reflexion 29.08
 Heute habe ich das Projekt auf ein neues Level gebracht, indem ich mehr Interaktivität und Struktur eingebaut habe. Im Spiel konnte ich die ersten Gegner und Hindernisse einfügen, was die Spielmechanik spannender macht und mir einen guten Einblick in Kollisionserkennung gab. Die App erhielt ein Eingabeformular für Login und Registrierung, das die Grundlage für spätere Nutzerfunktionen ist. Zusätzlich habe ich das Projekt-Wiki um eine Beschreibung der Spiel- und App-Architektur erweitert, damit der Aufbau klar dokumentiert ist. Schließlich habe ich erste Unit-Tests geschrieben, wodurch ich direkt gemerkt habe, wie wichtig frühes Testen für die Stabilität ist. Insgesamt war es ein produktiver Tag, an dem Theorie und Praxis gut zusammengeflossen sind.  
