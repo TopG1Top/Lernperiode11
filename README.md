@@ -36,5 +36,26 @@ Heute habe ich einen wichtigen Grundstein für das gesamte Projekt gelegt. Zuers
 - [ ] **Spiel:** Erweiterung der Steuerungslogik (z. B. Sprung / Interaktion)  
 - [ ] **App:** Navigation zwischen mehreren Seiten implementieren  
 - [ ] **Projekt-Wiki:** Erste Tutorials / How-Tos dokumentieren (z. B. Setup beschreiben)  
-- [ ] **Codequalität:** Git-Repository einrichten + erste Commits mit sauberer Struktur  
+- [ ] **Codequalität:** Git-Repository einrichten + erste Commits mit sauberer Struktur
+
+- [ ] ### 📆 29.08 – **Funktionen vertiefen**
+- [ ] **Spiel:** Erste einfache Gegner oder Hindernisse einbauen  
+- [ ] **App:** Eingabeformular (z. B. Login oder Registrierung) erstellen  
+- [ ] **Projekt-Wiki:** Dokumentation zur Spiel-/App-Architektur ergänzen  
+- [ ] **Testen:** Erste kleine Unit-Tests für Spiel- und App-Komponenten schreiben  
+
+## 📝 Reflexion 29.08
+Heute habe ich das Projekt auf ein neues Level gebracht, indem ich mehr Interaktivität und Struktur eingebaut habe. Im Spiel konnte ich die ersten Gegner und Hindernisse einfügen, was die Spielmechanik spannender macht und mir einen guten Einblick in Kollisionserkennung gab. Die App erhielt ein Eingabeformular für Login und Registrierung, das die Grundlage für spätere Nutzerfunktionen ist. Zusätzlich habe ich das Projekt-Wiki um eine Beschreibung der Spiel- und App-Architektur erweitert, damit der Aufbau klar dokumentiert ist. Schließlich habe ich erste Unit-Tests geschrieben, wodurch ich direkt gemerkt habe, wie wichtig frühes Testen für die Stabilität ist. Insgesamt war es ein produktiver Tag, an dem Theorie und Praxis gut zusammengeflossen sind.  
+
+---
+
+### 📆 05.09 – **Feinschliff & Stabilität**
+- [ ] **Spiel:** Punktesystem oder Leben implementieren  
+- [ ] **App:** Daten lokal speichern (z. B. mit SharedPreferences / SQLite)  
+- [ ] **Projekt-Wiki:** Erste FAQ-Seite mit häufigen Problemen und Lösungen eintragen  
+- [ ] **Codequalität:** Linter/Formatter einrichten und Code-Reviews simulieren  
+
+## 📝 Reflexion 05.09
+Der Fokus lag heute darauf, dem Projekt mehr Stabilität und erste Feinschliffe zu geben. Im Spiel habe ich ein Punktesystem sowie Leben eingebaut, wodurch die Spiellogik mehr Struktur und Motivation für den Spieler erhält. In der App konnte ich die lokale Datenspeicherung einrichten, was ein wichtiger Schritt für die spätere Nutzung ist. Besonders wertvoll war es, eine FAQ-Seite im Wiki anzulegen, um typische Probleme schnell nachvollziehbar zu machen. Außerdem habe ich mich intensiver mit Codequalität beschäftigt: Ein Linter sorgt nun für sauberen Code, und durch simulierte Reviews konnte ich meinen Blick für Verbesserungen schärfen. Damit hat das Projekt eine deutlich stabilere Grundlage bekommen und fühlt sich nun viel professioneller an.  
+
 
