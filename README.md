@@ -56,6 +56,17 @@ Heute habe ich das Projekt auf ein neues Level gebracht, indem ich mehr Interakt
 - [ ] **Codequalität:** Linter/Formatter einrichten und Code-Reviews simulieren  
 
 ## 📝 Reflexion 05.09
-Der Fokus lag heute darauf, dem Projekt mehr Stabilität und erste Feinschliffe zu geben. Im Spiel habe ich ein Punktesystem sowie Leben eingebaut, wodurch die Spiellogik mehr Struktur und Motivation für den Spieler erhält. In der App konnte ich die lokale Datenspeicherung einrichten, was ein wichtiger Schritt für die spätere Nutzung ist. Besonders wertvoll war es, eine FAQ-Seite im Wiki anzulegen, um typische Probleme schnell nachvollziehbar zu machen. Außerdem habe ich mich intensiver mit Codequalität beschäftigt: Ein Linter sorgt nun für sauberen Code, und durch simulierte Reviews konnte ich meinen Blick für Verbesserungen schärfen. Damit hat das Projekt eine deutlich stabilere Grundlage bekommen und fühlt sich nun viel professioneller an.  
+Der Fokus lag heute darauf, dem Projekt mehr Stabilität und erste Feinschliffe zu geben. Im Spiel habe ich ein Punktesystem sowie Leben eingebaut, wodurch die Spiellogik mehr Struktur und Motivation für den Spieler erhält. In der App konnte ich die lokale Datenspeicherung einrichten, was ein wichtiger Schritt für die spätere Nutzung ist. Besonders wertvoll war es, eine FAQ-Seite im Wiki anzulegen, um typische Probleme schnell nachvollziehbar zu machen. Außerdem habe ich mich intensiver mit Codequalität beschäftigt: Ein Linter sorgt nun für sauberen Code, und durch simulierte Reviews konnte ich meinen Blick für Verbesserungen schärfen. Damit hat das Projekt eine deutlich stabilere Grundlage bekommen und fühlt sich nun viel professioneller an. 
+
+### 📆 05.09 – 19.09.25
+
+- Modul app machen eine ganze app von neu starten
+- Bewerbungsunterlagen nochmal checken und eine bewerbung abschicken
+- youtube video über Java anschauen und selbst programmieren
+- Meine eigene webseite nichmals neu gestalten und eine nochmal neue webseite machen über ein projekt
+-
+-
+
+
 
 
